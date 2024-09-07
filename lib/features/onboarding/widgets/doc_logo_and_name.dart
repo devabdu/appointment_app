@@ -4,7 +4,6 @@ import 'package:flutter_svg/svg.dart';
 
 import '../../../core/theming/styles.dart';
 
-
 class DocLogoAndName extends StatelessWidget {
   const DocLogoAndName({super.key});
 
@@ -17,7 +16,7 @@ class DocLogoAndName extends StatelessWidget {
         SizedBox(width: 10.w),
         Text(
           'Docdoc',
-          style: TextStyles.font24Black700Weight,
+          style: TextStyles.font24BlackBold,
         ),
       ],
     );

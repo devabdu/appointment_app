@@ -1,6 +1,6 @@
 import 'package:appointment_app/core/routing/app_router.dart';
 import 'package:appointment_app/core/routing/routes.dart';
-import 'package:appointment_app/core/theming/app_colors.dart';
+import 'package:appointment_app/core/theming/colors_manager.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
